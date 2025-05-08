@@ -77,6 +77,11 @@ The project workflow followed these steps:
    
 
 
+
+
+
+
+
 **Customer Wise Analysis**
 
 1. Low sales increase %  for high value customer (2021 vs 2020)
@@ -90,12 +95,22 @@ The project workflow followed these steps:
 
 
 
+
+
+
+
+
 **Market Wise Analysis**
 
 1. India is the highest selling zone with high highest target achieved 						
 2. North America is one of the high selling region but it only achieved 89% target(Lowest)
 
    ![image](https://github.com/user-attachments/assets/92fecf29-fa43-4477-b0a2-8244732c7720)
+
+
+
+
+
 
 
 
@@ -115,6 +130,13 @@ The project workflow followed these steps:
 
 
 
+
+
+
+
+
+
+
 **New Vs Regular Product Comparison**
 1. New products of accessories have high sales % 
    compare to number of new products( contribute 
@@ -130,6 +152,10 @@ The project workflow followed these steps:
 
 
 
+ 
+ 
+ 
+ 
  ## Recommendation
 
  	1. Expand business in Europe which is a high sales potential area(NE and SE has low sales but highest  sales increase % in 2021)
